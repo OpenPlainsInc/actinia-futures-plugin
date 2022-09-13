@@ -1,4 +1,4 @@
-# actinia-futures-plugin
+# (In Development) actinia-futures-plugin
 
 An Actinia plugin designed to interactively run the [FUTURES urban growth model](https://cnr.ncsu.edu/geospatial/research/futures/) developed at the Center for Geospatil Analytics at North Carolina State Universtiy.
 
